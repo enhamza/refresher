@@ -28,4 +28,3 @@ jupyter notebook
 The Python introduction notebooks (`Python_Basics` and `Python102_Numpy_and_co`) are largely taken from and inspired by the material of my colleague [Franck Iutzeler](https://www.iutzeler.org/teaching/), who previously taught this refresher course at Univ. Grenoble Alpes. Many thanks to him for making his material available.
 
 ---
-*Hamza Ennaji — [enhamza.github.io](https://enhamza.github.io)*
